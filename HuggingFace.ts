@@ -1,4 +1,4 @@
-const OPENAI_API_HOST = "api-inference.huggingface.co";
+const OPENAI_API_HOST = "api-inference.huggingface.co/models";
 
 Deno.serve(async (request) => {
   const url = new URL(request.url);
