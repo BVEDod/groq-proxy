@@ -22,10 +22,10 @@ OpenAI/ChatGPT 的 API。
 或者，访问 https://deno.new 域名，把 deno.ts 复制到 Playground 中，点击 Play
 按钮。
 
-Groq.ts = Groq API转发 
-HuggingFace.ts = HuggingFacede API转发 
-gemini.ts = gemini API转发 
-XAI.ts = X.ai API转发 
+Groq.ts = Groq API转发  
+HuggingFace.ts = HuggingFacede API转发  
+gemini.ts = gemini API转发  
+XAI.ts = X.ai API转发  
 使用方法和上面一样 
 
 ### CloudFlare
